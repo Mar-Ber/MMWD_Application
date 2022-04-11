@@ -2,7 +2,7 @@
 
 This project has been created as a part of the Mathematical Methods of Decision Support program for the purpose of implementing the Tabu Search method to the transportation problem entitled by our team as MMWD Delivery Company.
 
-* Problem Description
+### Problem Description
 
 The considered optimization problem is from the category of transport theory - a company delivering food in a single city. In the created problem, the solution is to find the optimal allocation of supplies to suppliers and the order of their implementation, to maximize profits. 
 
@@ -14,7 +14,7 @@ The supplier has the choice of executing orders individually or several at the s
 
 As a food delivery company, orders are selected from an available order base in a way that maximizes profits.
 
-* Solution method
+### Solution method
 
 In order to develop a solution to the transport problem, the Tabu Search algorithm was used.
 

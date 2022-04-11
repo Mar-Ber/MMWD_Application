@@ -14,3 +14,9 @@ The supplier has the choice of executing orders individually or several at the s
 
 As a food delivery company, orders are selected from an available order base in a way that maximizes profits.
 
+* Solution method
+
+In order to develop a solution to the transport problem, the Tabu Search algorithm was used.
+
+The following approach to the issue was chosen. The solution was chosen as the driver's entire route to which possible orders were found. In subsequent iterations, the route is changed randomly, taking into account the maximization of the number and weight of orders processed by drivers, whose collection and delivery points were included in the route. In this way, the orders made are directly dependent on the selected route, and the waypoints of a given driver are only indirectly changed based on the list of orders.
+

@@ -1,6 +1,6 @@
 ## MMWD_Application
 
-This project has been created as a part of the Mathematical Methods of Decision Support program for the purpose of implementing the Tabu Search method to the transportation problem entitled by our team as MMWD Delivery Company.
+This project has been created as a part of the Mathematical Methods of Decision Support program for the purpose of implementing the Tabu Search method to the transportation problem entitled as MMWD Delivery Company.
 
 ### Problem Description
 
